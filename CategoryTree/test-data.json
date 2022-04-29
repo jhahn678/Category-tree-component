@@ -1,0 +1,276 @@
+[
+    {
+        "_id": "6263181ba7a38953ccbbc2bf",
+        "name": "Flies",
+        "parent": null,
+        "ancestors": [],
+        "slug": "flies",
+        "__v": 0,
+        "has_children": true
+    },
+    {
+        "_id": "6263196bc8043ac6092dcf5c",
+        "name": "Dry flies",
+        "parent": "6263181ba7a38953ccbbc2bf",
+        "ancestors": [
+            {
+                "_id": "6263181ba7a38953ccbbc2bf",
+                "name": "Flies",
+                "slug": "flies"
+            }
+        ],
+        "slug": "dry-flies",
+        "__v": 0,
+        "has_children": true
+    },
+    {
+        "_id": "62631a1e656f5a8981d3d507",
+        "name": "Nymphs",
+        "parent": "6263181ba7a38953ccbbc2bf",
+        "ancestors": [
+            {
+                "_id": "6263181ba7a38953ccbbc2bf",
+                "name": "Flies",
+                "slug": "flies"
+            }
+        ],
+        "slug": "nymphs",
+        "__v": 0,
+        "has_children": true
+    },
+    {
+        "_id": "62631a4c656f5a8981d3d50a",
+        "name": "Streamers",
+        "parent": "6263181ba7a38953ccbbc2bf",
+        "ancestors": [
+            {
+                "_id": "6263181ba7a38953ccbbc2bf",
+                "name": "Flies",
+                "slug": "flies"
+            }
+        ],
+        "slug": "streamers",
+        "__v": 0,
+        "has_children": true
+    },
+    {
+        "_id": "62631b97656f5a8981d3d50d",
+        "name": "Mayfly",
+        "parent": "6263196bc8043ac6092dcf5c",
+        "ancestors": [
+            {
+                "_id": "6263181ba7a38953ccbbc2bf",
+                "name": "Flies",
+                "slug": "flies"
+            },
+            {
+                "_id": "6263196bc8043ac6092dcf5c",
+                "name": "Dry flies",
+                "slug": "dry-flies"
+            }
+        ],
+        "slug": "mayfly",
+        "__v": 0,
+        "has_children": false
+    },
+    {
+        "_id": "62631bc1656f5a8981d3d510",
+        "name": "Stonefly",
+        "parent": "6263196bc8043ac6092dcf5c",
+        "ancestors": [
+            {
+                "_id": "6263181ba7a38953ccbbc2bf",
+                "name": "Flies",
+                "slug": "flies"
+            },
+            {
+                "_id": "6263196bc8043ac6092dcf5c",
+                "name": "Dry flies",
+                "slug": "dry-flies"
+            }
+        ],
+        "slug": "stonefly",
+        "__v": 0,
+        "has_children": false
+    },
+    {
+        "_id": "62631bc7656f5a8981d3d513",
+        "name": "Caddis",
+        "parent": "6263196bc8043ac6092dcf5c",
+        "ancestors": [
+            {
+                "_id": "6263181ba7a38953ccbbc2bf",
+                "name": "Flies",
+                "slug": "flies"
+            },
+            {
+                "_id": "6263196bc8043ac6092dcf5c",
+                "name": "Dry flies",
+                "slug": "dry-flies"
+            }
+        ],
+        "slug": "caddis",
+        "__v": 0,
+        "has_children": false
+    },
+    {
+        "_id": "62631bd0656f5a8981d3d516",
+        "name": "Attractor",
+        "parent": "6263196bc8043ac6092dcf5c",
+        "ancestors": [
+            {
+                "_id": "6263181ba7a38953ccbbc2bf",
+                "name": "Flies",
+                "slug": "flies"
+            },
+            {
+                "_id": "6263196bc8043ac6092dcf5c",
+                "name": "Dry flies",
+                "slug": "dry-flies"
+            }
+        ],
+        "slug": "attractor",
+        "__v": 0,
+        "has_children": false
+    },
+    {
+        "_id": "62631bde656f5a8981d3d519",
+        "name": "Terrestrial",
+        "parent": "6263196bc8043ac6092dcf5c",
+        "ancestors": [
+            {
+                "_id": "6263181ba7a38953ccbbc2bf",
+                "name": "Flies",
+                "slug": "flies"
+            },
+            {
+                "_id": "6263196bc8043ac6092dcf5c",
+                "name": "Dry flies",
+                "slug": "dry-flies"
+            }
+        ],
+        "slug": "terrestrial",
+        "__v": 0,
+        "has_children": false
+    },
+    {
+        "_id": "62631bfd656f5a8981d3d51c",
+        "name": "Standard Nymphs",
+        "parent": "62631a1e656f5a8981d3d507",
+        "ancestors": [
+            {
+                "_id": "6263181ba7a38953ccbbc2bf",
+                "name": "Flies",
+                "slug": "flies"
+            },
+            {
+                "_id": "62631a1e656f5a8981d3d507",
+                "name": "Nymphs",
+                "slug": "nymphs"
+            }
+        ],
+        "slug": "standard-nymphs",
+        "__v": 0,
+        "has_children": false
+    },
+    {
+        "_id": "62631c02656f5a8981d3d51f",
+        "name": "Beadhead Nymphs",
+        "parent": "62631a1e656f5a8981d3d507",
+        "ancestors": [
+            {
+                "_id": "6263181ba7a38953ccbbc2bf",
+                "name": "Flies",
+                "slug": "flies"
+            },
+            {
+                "_id": "62631a1e656f5a8981d3d507",
+                "name": "Nymphs",
+                "slug": "nymphs"
+            }
+        ],
+        "slug": "beadhead-nymphs",
+        "__v": 0,
+        "has_children": false
+    },
+    {
+        "_id": "62631c13656f5a8981d3d522",
+        "name": "Midges",
+        "parent": "62631a1e656f5a8981d3d507",
+        "ancestors": [
+            {
+                "_id": "6263181ba7a38953ccbbc2bf",
+                "name": "Flies",
+                "slug": "flies"
+            },
+            {
+                "_id": "62631a1e656f5a8981d3d507",
+                "name": "Nymphs",
+                "slug": "nymphs"
+            }
+        ],
+        "slug": "midges",
+        "__v": 0,
+        "has_children": false
+    },
+    {
+        "_id": "62631c41656f5a8981d3d525",
+        "name": "Worms",
+        "parent": "62631a1e656f5a8981d3d507",
+        "ancestors": [
+            {
+                "_id": "6263181ba7a38953ccbbc2bf",
+                "name": "Flies",
+                "slug": "flies"
+            },
+            {
+                "_id": "62631a1e656f5a8981d3d507",
+                "name": "Nymphs",
+                "slug": "nymphs"
+            }
+        ],
+        "slug": "worms",
+        "__v": 0,
+        "has_children": false
+    },
+    {
+        "_id": "62631c9c656f5a8981d3d528",
+        "name": "Soft hackle",
+        "parent": "62631a1e656f5a8981d3d507",
+        "ancestors": [
+            {
+                "_id": "6263181ba7a38953ccbbc2bf",
+                "name": "Flies",
+                "slug": "flies"
+            },
+            {
+                "_id": "62631a1e656f5a8981d3d507",
+                "name": "Nymphs",
+                "slug": "nymphs"
+            }
+        ],
+        "slug": "soft-hackle",
+        "__v": 0,
+        "has_children": false
+    },
+    {
+        "_id": "62631cf8656f5a8981d3d52b",
+        "name": "Buggers",
+        "parent": "62631a4c656f5a8981d3d50a",
+        "ancestors": [
+            {
+                "_id": "6263181ba7a38953ccbbc2bf",
+                "name": "Flies",
+                "slug": "flies"
+            },
+            {
+                "_id": "62631a4c656f5a8981d3d50a",
+                "name": "Streamers",
+                "slug": "streamers"
+            }
+        ],
+        "slug": "buggers",
+        "__v": 0,
+        "has_children": false
+    }
+]
